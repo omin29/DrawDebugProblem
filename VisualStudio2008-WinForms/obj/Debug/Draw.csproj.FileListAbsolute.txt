@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\User\Desktop\Втори курс\Летен семестър\Компютърна графика и ГПИ (графичен потребителски интерфейс)\Помощни материали\Стартов проект\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
